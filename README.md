@@ -4,7 +4,8 @@
 
 Este é um projeto simples desenvolvido como atividade para a faculdade. Consiste em uma página eletrônica para uma loja fictícia que vende produtos relacionados a computadores. A página foi construída utilizando HTML e CSS, e exibe diversos elementos organizados em retângulos coloridos.
 
-![Preview da Página](preview.png)
+![Preview da Página]![image](https://github.com/jntmelgar/computech-store/assets/147103279/9843354c-5a9c-4d1b-9b95-84ac7930c6c5)
+
 
 ### 🟢 Logo
 
